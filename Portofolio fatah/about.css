@@ -1,0 +1,75 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    background-color: #7b1e1e;
+    justify-content: space-between;
+    box-shadow: 3px 3px 5px 5px #6a1717;
+}
+
+.logo img{
+    height: 80px;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(255, 228, 159);
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+li {
+    /* float: right; */
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px;
+    padding-left: 14px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: black;
+}
+.about{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    padding-top: 50px;
+}
+
+.sosmed {
+    text-align: center;
+    border: solid 1px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.sosmed h2{
+    padding: 1px;
+    margin: 1px;
+    font-size: 20px;
+}
+
+
+.logoinstagram {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.logoinstagram img{
+    height: 50px;
+}
+
+.X {
+    margin: auto;
+    padding-left: 10px;
+    font-size: 100px;
+}
